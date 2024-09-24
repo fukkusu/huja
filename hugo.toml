@@ -1,4 +1,4 @@
-baseURL = 'https://fukkusu.github.io/fukkusu'
+baseURL = 'https://fukkusu.github.io/'
 languageCode = 'en-us'
 title = 'Huja Japan'
 theme = 'lightbi'
